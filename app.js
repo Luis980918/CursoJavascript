@@ -48,7 +48,7 @@ console.log(nombre+" "+lastname);
 
 
 Operaciones entre variables:
-ejemplo
+ejemplo:
 
 let numero1=60;
 let numero2=100;
@@ -57,19 +57,93 @@ total=numero1*numero2;
 console.log("El total es: "+total);
 
 Comparaciones entre variables:
-
+ejemplo:
+____________________________________________
 let numero1=60;
 let numero2=100;
 
 let result=numero1<numero2;
 
 console.log(result);
+____________________________________________
+
+otro ejemplo:
+____________________________________________
+let contraseña='juan354';
+let entrada='juan354';
+
+let result=contraseña==entrada;
+
+console.log(result);
+____________________________________________
+
+Condicionales:
+Ejemplo:
+
+let contraseña='juan354';
+let entrada='juan354';
+
+let result=contraseña==entrada;
+
+if(result==true){
+    console.log("Login Correcto");
+}
+if(result==false){
+    console.log("Login Incorrecto");
+}
+
+switches:
+
+let typeCard='debito';
+
+switch(typeCard){
+    case 'debito':
+        console.log("La targeta utilizada es debito")
+        break;
+    case 'credito':
+        console.log("Está utilizando una targeta de credito");
+        break;
+
+    default:
+        console.log("Targeta no ingresada")
+        break;
+}
+
+_____________________________________________________
+Ciclos y aplicaciones
+let count=50;
+
+Ciclo While
+
+while(count>0){
+    console.log(count);
+    count=count-1;
+}
+
+Ciclo For
+
+let names=['ryan', 'joe', 'john', 'mario'];
+
+for(i=0;i<5; i++){
+    console.log(names[i]);
+}
+_____________________________________________________
+Funciones:
+function saludar(){
+    console.log('Hola');
+}
+saludar();
+_____________________________________________________
+let name="Juan";
+function saludar(name){
+    console.log(name);
+}
+saludar(name);
+_____________________________________________________
+
 
 
 */
-let numero1=60;
-let numero2=100;
 
-let result=numero1<numero2;
 
-console.log(result);
+

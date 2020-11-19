@@ -1,0 +1,5 @@
+//Hola Mundo en Javascript utilizando consola
+console.log("Hola Mundo");
+
+//Hola Mundo visible en el navegador
+document.write("Hola Mundo");

@@ -27,13 +27,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CursoJavascript/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -45,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605818795120</updated>
-      <workItem from="1605818796199" duration="1421000" />
+      <workItem from="1605818796199" duration="3157000" />
     </task>
     <servers />
   </component>
@@ -53,21 +57,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="659" height="182" key="GridCell.Tab.0.bottom" timestamp="1605820126055">
+    <state width="659" height="182" key="GridCell.Tab.0.bottom" timestamp="1605821890454">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605820126055" />
-    <state width="659" height="182" key="GridCell.Tab.0.center" timestamp="1605820126055">
+    <state width="659" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605821890454" />
+    <state width="659" height="182" key="GridCell.Tab.0.center" timestamp="1605821890454">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605820126055" />
-    <state width="659" height="182" key="GridCell.Tab.0.left" timestamp="1605820126054">
+    <state width="659" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605821890454" />
+    <state width="659" height="182" key="GridCell.Tab.0.left" timestamp="1605821890453">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605820126054" />
-    <state width="659" height="182" key="GridCell.Tab.0.right" timestamp="1605820126055">
+    <state width="659" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605821890453" />
+    <state width="659" height="182" key="GridCell.Tab.0.right" timestamp="1605821890454">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605820126055" />
+    <state width="659" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605821890454" />
   </component>
 </project>

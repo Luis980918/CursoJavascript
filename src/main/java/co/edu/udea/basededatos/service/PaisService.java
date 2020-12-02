@@ -12,7 +12,6 @@ public class PaisService {
     public PaisService(PaisRepository paisRepository) {
         this.paisRepository = paisRepository;
     }
-
     
     public Pais guardarPais(Pais pais) {
         return paisRepository.save(pais);
